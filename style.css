@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(60, 135, 173);
+    font-family: 'itim';
+}
+
+img{
+    border: 5px solid rgb(33, 62, 112);
+    display: block;
+    margin: auto;
+}
+
+.content-1{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: rgb(176, 209, 239);
+    padding: 0px 10px 0px 10px;
+    border-radius: 20px;
+}
+
+.Meow{
+    text-align: center;
+}
